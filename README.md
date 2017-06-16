@@ -2,15 +2,25 @@
 
 ## V1.0
 
-- [ ] 首页（index.html）基本设计
+- [ ] index.html（HTML）
 
-- [ ] 列表页（list.html）基本设计
+- [ ] list.html（HTML）
 
-- [ ] 内容页（show.html）基本设计
+- [ ] show.html（HTML）
 
-- [ ] CSS基本开发
+- [ ] index.html（CSS）
 
-- [ ] 两种语言（en-US, zh-CN）
+- [ ] list.html（CSS）
+
+- [ ] show.html（CSS）
+
+- [ ] lang-box（CSS）
+
+- [ ] lang-box（JavaScript）
+
+- [ ] 语言（en-US）
+
+- [ ] 语言（zh-CN）
 
 ## V2.0
 
