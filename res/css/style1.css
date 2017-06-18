@@ -16,6 +16,12 @@ html {
     height: 100%;
 }
 
+.captain-box {
+    background-color: darkblue;
+    min-height: 100px;
+    width: 100%;
+}
+
 .page-box {
     background-color: white;
     box-shadow: 0 0 10px #1b1b1b;
