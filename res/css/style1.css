@@ -17,9 +17,35 @@ html {
 }
 
 .captain-box {
-    background-color: darkblue;
-    min-height: 100px;
+    min-height: 150px;
+    text-align: center;
     width: 100%;
+}
+
+.captain-box-main {
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 150px;
+}
+
+.nav-box {
+    background-color: darkblue;
+    color: white;
+    min-height: 36px;
+    width: 100%;
+}
+
+.nav-box-main {
+    text-align: center;
+}
+
+.nav-box-main li {
+    font-size: 12px;
+    font-weight: bold;
+    display: inline-table;
+    line-height: 36px;
+    min-width: 200px;
+    text-align: center;
 }
 
 .page-box {
