@@ -17,6 +17,8 @@ html {
 }
 
 .captain-box {
+    background-image: url("../img/captain1.png");
+    background-size: cover;
     min-height: 150px;
     text-align: center;
     width: 100%;
