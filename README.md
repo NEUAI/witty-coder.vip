@@ -22,6 +22,8 @@
 
 - [ ] 语言（zh-CN）
 
+- [*] 博客（blog.witty-coder.vip）
+
 ## V2.0
 
 - [ ] 首页（index.html）高级设计
