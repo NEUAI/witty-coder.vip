@@ -22,7 +22,7 @@
 
 - [ ] 语言（zh-CN）
 
-- [*] 博客（blog.witty-coder.vip）
+- [x] 博客（blog.witty-coder.vip）
 
 ## V2.0
 
